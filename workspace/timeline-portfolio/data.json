@@ -1,0 +1,140 @@
+
+{
+    "timeline":
+    {
+        "headline":"Shashank",
+        "type":"default",
+		"startDate":"2007,1",
+		"text":"<i><span class='c1'>Student</span> & <span class='c2'>Developer</span></i>",
+		"asset":
+        {
+            "media":"assets/img/notes.png",
+            "credit":"<a href='http://dribbble.com/shots/221641-iOS-Icon'>iOS Icon by Asher</a>",
+            "caption":""
+        },
+        "date": [
+	    {
+                "startDate":"2007,9",
+                "headline":"Awards Time",
+                "text":"Child of the Year @Eklavya School",
+                "asset":
+                {
+                    "media":"assets/img/shots/shot_1298590416.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2008,6",
+                "headline":"Huge Taste Of Success",
+                "text":"7th in RMO (Regional Maths Olypiad)",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    {
+                "startDate":"2009,12",
+                "headline":"Intro to Game Development",
+                "text":"",
+                "asset":
+                {
+                    "media":"assets/img/notes.png",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2010,4",
+                "headline":"Intro To Programming",
+                "text":"Developed Iphone app and plugins for Joomla",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            
+	    {
+                "startDate":"2011,9",
+                "headline":"Argentina vs Venezuela",
+                "text":"Watched Messi and Co. play live in Kolkatta",
+                "asset":
+                {
+                    "media":"assets/img/shots/dg1.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    {
+                "startDate":"2012,1",
+                "headline":"David Guetta - Live Concert :)",
+                "text":"Eristoff Invasion @Bangalore",
+                "asset":
+                {
+                    "media":"assets/img/shots/dg1.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    {
+                "startDate":"2012,3",
+                "headline":"David Guetta - Live Concert :)",
+                "text":"Eristoff Invasion @Bangalore",
+                "asset":
+                {
+                    "media":"assets/img/shots/dg2.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    {
+                "startDate":"2012,6",
+                "headline":"First Foreign Internship",
+                "text":"Went for AIESEC Internship to Mauritius",
+                "asset":
+                {
+                    "media":"http://www.youtube.com/watch?v=Yjfskm7mrS4",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    {
+                "startDate":"2012,7",
+                "headline":"The Real Adventure",
+                "text":"Sky Diving and Scuba Diving = Epic Experience",
+                "asset":
+                {
+                    "media":"http://www.youtube.com/watch?v=Yjfskm7mrS4",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+	    {
+                "startDate":"2012,11",
+                "headline":"Very First Web App",
+                "text":"Developed a performance monitoring web app powered by Google App Engine",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+	    },
+            {
+                "startDate":"2012,12",
+                "headline":"First Own Website",
+                "text":"",
+                "asset":
+                {
+                    "media":"http://www.shashank.comoj.com",
+                    "credit":"",
+                    "caption":""
+                }
+            }
+        ]
+    }
+}
